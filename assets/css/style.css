@@ -162,7 +162,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top : 50% ;
-    background : url('/vinhlinh/assets/img/main2.jpg') top center / cover no-repeat;
+    background : url('/assets/img/main2.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content{
